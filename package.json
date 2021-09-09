@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-phonebook",
+  "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://milaeva.github.io/goit-react-hw-02-phonebook",
+  "homepage": "https://milaeva.github.io/goit-react-hw-03-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
